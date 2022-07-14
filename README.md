@@ -105,7 +105,9 @@ ___SECCIÓN 12–1 El capacitor básico___
 ![image](https://user-images.githubusercontent.com/105671364/179031671-dc847965-6b1a-4947-b780-bdeffdc06ea0.png)
 
 2. Transforme los siguientes valores de microfarads a picofarads:
+
 ![image](https://user-images.githubusercontent.com/105671364/179031853-a613e08b-14a5-416c-8bc9-a787f39d7ace.png)
+
 ![image](https://user-images.githubusercontent.com/105671364/179033635-0b54d258-e3fe-4b76-94e7-9c713088cb14.png)
 
 4. Transforme los siguientes valores de farads a microfarads;
